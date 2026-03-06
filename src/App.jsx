@@ -5,12 +5,8 @@ export default function App() {
   {/* UserCard Components & Props */}
   <UserCardProps />
 
-  
-  
 
 
 
-
-  
   </>
 }
